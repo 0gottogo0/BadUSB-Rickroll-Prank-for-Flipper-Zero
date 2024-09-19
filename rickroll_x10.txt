@@ -1,0 +1,192 @@
+REM
+REM
+REM
+REM --Author: gottogo--
+REM --Github: https://github.com/0gottogo0/BadUSB-Rickroll-Prank-for-Flipper-Zero--
+REM --Video: https://www.youtube.com/@gottogo9504--
+REM Rickrolls someone 10 times as a prank
+REM Feel free to edit any delays, some systems are slower then others
+REM
+REM
+REM
+CTRL T
+STRING data:text/html, <html contenteditable autofocus><style>body{font-family:monospace;}
+ENTER
+DELAY 250
+STRING      You just got rickrolled :)
+ENTER
+STRING                You just got rickrolled :)
+ENTER
+STRING                          You just got rickrolled :)
+ENTER
+STRING                                    You just got rickrolled :)
+ENTER
+STRING                                              You just got rickrolled :)
+ENTER
+CTRL T
+STRING https://www.youtube.com/watch?v=2qBlE2-WL60
+ENTER
+DELAY 1000
+CTRL T
+STRING data:text/html, <html contenteditable autofocus><style>body{font-family:monospace;}
+ENTER
+DELAY 250
+STRING      You just got rickrolled :)
+ENTER
+STRING                You just got rickrolled :)
+ENTER
+STRING                          You just got rickrolled :)
+ENTER
+STRING                                    You just got rickrolled :)
+ENTER
+STRING                                              You just got rickrolled :)
+ENTER
+CTRL T
+STRING https://www.youtube.com/watch?v=2qBlE2-WL60
+ENTER
+DELAY 1000
+CTRL T
+STRING data:text/html, <html contenteditable autofocus><style>body{font-family:monospace;}
+ENTER
+DELAY 250
+STRING      You just got rickrolled :)
+ENTER
+STRING                You just got rickrolled :)
+ENTER
+STRING                          You just got rickrolled :)
+ENTER
+STRING                                    You just got rickrolled :)
+ENTER
+STRING                                              You just got rickrolled :)
+ENTER
+CTRL T
+STRING https://www.youtube.com/watch?v=2qBlE2-WL60
+ENTER
+DELAY 1000
+CTRL T
+STRING data:text/html, <html contenteditable autofocus><style>body{font-family:monospace;}
+ENTER
+DELAY 250
+STRING      You just got rickrolled :)
+ENTER
+STRING                You just got rickrolled :)
+ENTER
+STRING                          You just got rickrolled :)
+ENTER
+STRING                                    You just got rickrolled :)
+ENTER
+STRING                                              You just got rickrolled :)
+ENTER
+CTRL T
+STRING https://www.youtube.com/watch?v=2qBlE2-WL60
+ENTER
+DELAY 1000
+CTRL T
+STRING data:text/html, <html contenteditable autofocus><style>body{font-family:monospace;}
+ENTER
+DELAY 250
+STRING      You just got rickrolled :)
+ENTER
+STRING                You just got rickrolled :)
+ENTER
+STRING                          You just got rickrolled :)
+ENTER
+STRING                                    You just got rickrolled :)
+ENTER
+STRING                                              You just got rickrolled :)
+ENTER
+CTRL T
+STRING https://www.youtube.com/watch?v=2qBlE2-WL60
+ENTER
+DELAY 1000
+CTRL T
+STRING data:text/html, <html contenteditable autofocus><style>body{font-family:monospace;}
+ENTER
+DELAY 250
+STRING      You just got rickrolled :)
+ENTER
+STRING                You just got rickrolled :)
+ENTER
+STRING                          You just got rickrolled :)
+ENTER
+STRING                                    You just got rickrolled :)
+ENTER
+STRING                                              You just got rickrolled :)
+ENTER
+CTRL T
+STRING https://www.youtube.com/watch?v=2qBlE2-WL60
+ENTER
+DELAY 1500
+CTRL T
+STRING data:text/html, <html contenteditable autofocus><style>body{font-family:monospace;}
+ENTER
+DELAY 250
+STRING      You just got rickrolled :)
+ENTER
+STRING                You just got rickrolled :)
+ENTER
+STRING                          You just got rickrolled :)
+ENTER
+STRING                                    You just got rickrolled :)
+ENTER
+STRING                                              You just got rickrolled :)
+ENTER
+CTRL T
+STRING https://www.youtube.com/watch?v=2qBlE2-WL60
+ENTER
+DELAY 1500
+CTRL T
+STRING data:text/html, <html contenteditable autofocus><style>body{font-family:monospace;}
+ENTER
+DELAY 250
+STRING      You just got rickrolled :)
+ENTER
+STRING                You just got rickrolled :)
+ENTER
+STRING                          You just got rickrolled :)
+ENTER
+STRING                                    You just got rickrolled :)
+ENTER
+STRING                                              You just got rickrolled :)
+ENTER
+CTRL T
+STRING https://www.youtube.com/watch?v=2qBlE2-WL60
+ENTER
+DELAY 1500
+CTRL T
+STRING data:text/html, <html contenteditable autofocus><style>body{font-family:monospace;}
+ENTER
+DELAY 250
+STRING      You just got rickrolled :)
+ENTER
+STRING                You just got rickrolled :)
+ENTER
+STRING                          You just got rickrolled :)
+ENTER
+STRING                                    You just got rickrolled :)
+ENTER
+STRING                                              You just got rickrolled :)
+ENTER
+CTRL T
+STRING https://www.youtube.com/watch?v=2qBlE2-WL60
+ENTER
+DELAY 2000
+CTRL T
+STRING data:text/html, <html contenteditable autofocus><style>body{font-family:monospace;}
+ENTER
+DELAY 250
+STRING      You just got rickrolled :)
+ENTER
+STRING                You just got rickrolled :)
+ENTER
+STRING                          You just got rickrolled :)
+ENTER
+STRING                                    You just got rickrolled :)
+ENTER
+STRING                                              You just got rickrolled :)
+ENTER
+CTRL T
+STRING https://www.youtube.com/watch?v=2qBlE2-WL60
+ENTER
+DELAY 2000
+STRING F
